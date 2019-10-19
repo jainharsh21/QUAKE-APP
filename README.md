@@ -1,16 +1,12 @@
-# quake_alert
+# Quake Alert
 
-A new Flutter project.
+## About the app.
 
-## Getting Started
+This app shows real-time earthquake alerts happening in your area.
+It''ll show you the magnitude of the earthquake occurred.
+Date and Time of the earthquake and its location from a landmark near you.
 
-This project is a starting point for a Flutter application.
+## Screenshot
+![WhatsApp Image 2019-10-19 at 3 01 26 PM](https://user-images.githubusercontent.com/44740658/67142728-a7b6f880-f281-11e9-8e2e-ab66625dd70f.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### API USED : https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
